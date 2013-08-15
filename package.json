@@ -11,7 +11,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"amd-doc": "0.2.x",
+		"amd-doc": "git+https://github.com/nicklassigurdh/amd-doc.git",
 		"grunt": "0.4.x",
 		"deferreds": "0.2.x"
 	},
